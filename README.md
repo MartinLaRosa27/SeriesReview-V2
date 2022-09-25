@@ -1,0 +1,1 @@
+Aplicación web desarrollada con React.Js / Node.Js / MySQL. Tiene como finalidad que los usuarios registren sus opiniones sobre las series que vieron.
